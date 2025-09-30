@@ -1,0 +1,1 @@
+I started by inspecting the button element, which revealed the hash. I then plugged the hash into CrackStation, which produced the password "cheeseburger". After plugging the password into the password box, I shrinked the window to be able to press the link, and then inspected the page to get the key from the href element.
